@@ -20,7 +20,7 @@ const Hero = () => {
 					<br />
 					<span>la Conception</span>
 				</h1>
-				<p className='text-2xl font-semibold text-accent-yellow text-center mt-10'>
+				<p className='text-2xl font-semibold text-accent-yellow text-center mt-10 bg-black/10 p-4'>
 					Accédez bientôt à notre nouveau site web
 				</p>
 				<Timer />
